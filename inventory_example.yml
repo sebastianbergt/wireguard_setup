@@ -1,0 +1,2 @@
+[production]
+192.168.156.98 ansible_ssh_private_key_file=~/.ssh/your_private_key_file
