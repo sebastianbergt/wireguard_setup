@@ -1,4 +1,6 @@
-# Wireguard Installation for Debian 11 Bullseye
+
+
+# Deployment for [Wireguard Easy](https://github.com/wg-easy/wg-easy) on Debian 11 Bullseye
 
 Remove the `_example` of the inventory and secrets file. Also fill them with your data.
 
